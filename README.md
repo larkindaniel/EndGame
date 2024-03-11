@@ -1,1 +1,1 @@
-# EndGame
+# EndGame Chess Engine
